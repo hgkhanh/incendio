@@ -1,2 +1,2 @@
 # incendio
-Python Jupyter notebook that calculate ema_25 using binance api
+Python Jupyter notebook that search crypto currencies
